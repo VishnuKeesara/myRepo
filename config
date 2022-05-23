@@ -1,0 +1,3 @@
+[remote]
+	url = https://github.com/kvishu09/myRepo.git
+	fetch = +refs/heads/*:refs/remotes/null/*
